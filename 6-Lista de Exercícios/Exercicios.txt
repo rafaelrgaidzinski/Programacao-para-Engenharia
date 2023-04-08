@@ -14,4 +14,4 @@ c)
 1- Receber o valor de compra informado pelo usuário
 2- Receber o percentual de desconto que deve ser entre 0 e 1 informado pelo usuário
 3- Realizar a subtração de 1 menos o percentual de desconto, e o resultado multiplicar pelo valor de compra
-4- Exibir o resultado do cálculo realizado no passo anterior.
+4- Exibir o resultado do cálculo realizado no passo anterior
