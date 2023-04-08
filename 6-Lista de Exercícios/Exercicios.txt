@@ -1,17 +1,42 @@
-1- Descrição Narrativa
+1- Para cada problema a seguir, elabore uma descrição narrativa
 
-a) 
+a) Dado um número real qualquer, informe qual é o seu dobro.
+
 1- Receber um número informado pelo usuário;
 2- Multiplicar o número informado por 2;
 3- Exibir o resultado da multiplicação.
 
-b)
+b) Dadas as medidas de uma sala em metros (comprimento e largura), informe a sua área em metros quadrados.
+
 1- Receber o valor das medidas do comprimento e da largura da sala informados pelo usuário;
 2- Multiplicar o valor do comprimento pela largura;
 3- Exibir o resultado da multiplicação.
 
-c) 
+c)  Dados o valor da compra e o percentual de desconto, calcule o valor a ser pago.
+    Considere que o percentual de desconto é um número real entre 0 e 1.
+
 1- Receber o valor de compra informado pelo usuário;
 2- Receber o percentual de desconto que deve ser entre 0 e 1 informado pelo usuário;
 3- Realizar a subtração de 1 menos o percentual de desconto, e o resultado multiplicar pelo valor de compra;
 4- Exibir o resultado do cálculo realizado no passo anterior.
+
+
+2- Construa uma sequência lógica para a resolver situação apresentada a seguir, utilizando a 
+    descrção narrativa:
+ 
+James Bond se meteu numa tremenda enrascada: está em uma fonte, na qual está armada
+uma bomba que explodirá em alguns minutos. Se ele tentar sair da fonte, tudo vai pelos
+ares. Mas ele tem uma chance: conectada à bomba existe uma balança, e esta balança
+desarma a bomba quando se põem exatamente 4 litros de água sobre ela. James Bond
+tem 2 recipientes: um com capacidade para 3 litros e outro com capacidade para 5 litros,
+como ele deve fazer para sair vivo dessa?
+
+1- James Bond deve encher o recipiente de 3 litros e transferir para o recipiente de 5 litros;
+2- James Bond deve encher novamente o recipiente de 3 litros e transferir para o de 5 litros, 
+   sendo que irá sobrar 1 litro no recipiente de 3 litros;
+3- James Bond deve esvaziar o recipiente de 5 litros e transferir o 1 litro que sobrou no 
+   recipiente de 3 litros para o de 5 litros;
+4- James Bond deve encher o recipiente de 3 litros e tranferir para o de 5 litros, que agora
+   estará com os 4 litros;
+5- James Bond deve pegar o recipiente de 5 litros que possui 4 litros e colocar na balança 
+   para desermar a bomba.
