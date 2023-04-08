@@ -1,0 +1,17 @@
+1- Descrição Narrativa
+
+a) 
+1- Receber um número informado pelo usuário
+2- Multiplicar o número informado por 2
+3- Exibir o resultado da multiplicação
+
+b)
+1- Receber o valor das medidas do comprimento e da largura da sala informados pelo usuário
+2- Multiplicar o valor do comprimento pela largura
+3- Exibir o resultado da multiplicação
+
+c) 
+1- Receber o valor de compra informado pelo usuário
+2- Receber o percentual de desconto que deve ser entre 0 e 1 informado pelo usuário
+3- Realizar a subtração de 1 menos o percentual de desconto, e o resultado multiplicar pelo valor de compra
+4- Exibir o resultado do cálculo realizado no passo anterior.
