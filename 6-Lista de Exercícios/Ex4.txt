@@ -1,0 +1,17 @@
+4) Considerando que a= 10, b= 16 e c = 23, marque a alternativa que representa o valor
+das variáveis a, b, e c depois de executado o trecho do código abaixo:
+
+int a = 10, b = 16, c = 23;
+
+if (a > b):
+    a = b;
+elif (b > a):
+    b = a;
+else:
+    c = b + a;
+
+a) (x) a= 10, b= 10, c = 23
+b) ( ) a= 16, b= 16, c = 26
+c) ( ) a= 10, b= 16, c = 23
+d) ( ) a= 16, b= 10, c = 23
+e) ( ) a= 16, b= 16, c = 23

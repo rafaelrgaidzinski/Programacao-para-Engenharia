@@ -1,0 +1,24 @@
+3) Observe atentamente o algoritmo apresentado abaixo que calcula o novo salário de um
+funcionário com base em seu salário atual:
+
+    1. Início programa
+    2. Ler salario
+    3. Se salario >= 1000
+    4. Então
+    5.      salarionovo = salario * 1.05
+    6. Senão
+    7.      salario = salario * 1.075
+    8. Fim Se
+    9. Exibir salario
+    10. Exibir salarionovo
+    11. Fim programa
+
+Julgue o item seguinte acerca de lógica de linguagens de programação assinalando
+verdadeiro ou falso:
+
+O comando na linha 7 faz aumentar o valor da variável salário em 7,5%. Esse comando,
+contudo, não poderá ser implementado da forma apresentada, uma vez que não é possível
+atribuir valor à variável salário, pois ela já está sendo utilizada no cálculo.
+
+( ) Verdadeiro (x) Falso
+

@@ -1,26 +1,3 @@
-1- Para cada problema a seguir, elabore uma descrição narrativa
-
-a) Dado um número real qualquer, informe qual é o seu dobro.
-
-1- Receber um número informado pelo usuário;
-2- Multiplicar o número informado por 2;
-3- Exibir o resultado da multiplicação.
-
-b) Dadas as medidas de uma sala em metros (comprimento e largura), informe a sua área em metros quadrados.
-
-1- Receber o valor das medidas do comprimento e da largura da sala informados pelo usuário;
-2- Multiplicar o valor do comprimento pela largura;
-3- Exibir o resultado da multiplicação.
-
-c)  Dados o valor da compra e o percentual de desconto, calcule o valor a ser pago.
-    Considere que o percentual de desconto é um número real entre 0 e 1.
-
-1- Receber o valor de compra informado pelo usuário;
-2- Receber o percentual de desconto que deve ser entre 0 e 1 informado pelo usuário;
-3- Realizar a subtração de 1 menos o percentual de desconto, e o resultado multiplicar pelo valor de compra;
-4- Exibir o resultado do cálculo realizado no passo anterior.
-
-
 2- Construa uma sequência lógica para a resolver situação apresentada a seguir, utilizando a 
     descrção narrativa:
  

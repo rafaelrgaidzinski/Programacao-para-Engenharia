@@ -1,0 +1,26 @@
+5) Em toda linguagem de programação existe uma ordem de precedência de operadores.
+Analise o trecho de um programa em Python a seguir, qual a variável que será alterada e
+qual valor ela terá ao final do programa?
+
+a2 = 2
+b2 = 4
+x2 = 12
+y2 = 10
+z2 = 3
+t2 = 0.0
+
+if x2 < y2 + z2:
+    if y2 != z2 * 4 - 2:
+        t2 = y2 / z2
+    else:
+        a2 = y2 % z2
+else:
+    b2 = z2 + y2 / x2
+
+print(a2, b2, x2, y2, z2, t2)
+
+a) ( ) Nenhuma variável será alterada.
+b) ( ) A variável b2 ficará 1
+c) ( ) A variável t2 ficará 3
+d) (x) A variável a2 ficará 1
+e) ( ) A variável b2 ficará 3

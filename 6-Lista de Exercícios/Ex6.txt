@@ -1,0 +1,12 @@
+6) Há um diamante dentro de uma das três caixas fechadas e de cores diferentes
+(azul, branca, cinza). A etiqueta da caixa azul diz “o diamante não está aqui”, a da caixa
+branca diz “o diamante não está na caixa cinza”, e a da caixa cinza diz “o diamante está
+aqui”. Se apenas uma das etiquetas diz a verdade, então, a caixa em que está o diamante
+e a caixa com a etiqueta que diz a verdade são, respectivamente:
+
+a) ( ) cinza e cinza.
+b) ( ) cinza e azul.
+c) (x) azul e branca.
+d) ( ) azul e cinza.
+e) ( ) branca e azul.
+                                        
