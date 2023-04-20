@@ -1,3 +1,9 @@
+# 1) A fórmula dos juros compostos é a seguinte: Vf = Vi * (1 + i)**m 
+#   Vf - Valor final do investimento, ao término do tempo
+#   Vi - Valor inicial que o cliente irá investir
+#   i - Rentabilidade mensal (em porcentagem)
+#   m - Quantidade de meses que o dinheiro do cliente vai ficar aplicado
+
 import math
 
 print("Programa para calcular o valor final de um investimento")

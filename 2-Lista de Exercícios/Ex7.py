@@ -1,3 +1,8 @@
+#   3) Suponha que o preço de capa de um livro seja R$ 24,95, mas as livrarias recebem
+#   um desconto de 40%. O transporte custa R$ 3,00 para o primeiro exemplar e 75
+#   centavos para cada exemplar adicional. Qual é o custo total de atacado para X
+#   cópias? Solicite o valor de X.
+
 print("Programa para calcular o preço de livros no atacado")
 
 quantidade_livros = int(input("Informe a quantidade de livros que deseja comprar: "))
