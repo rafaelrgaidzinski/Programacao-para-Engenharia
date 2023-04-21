@@ -1,3 +1,13 @@
+#   7) Desenvolver um programa que leia a velocidade máxima permitida em uma avenida e
+#   a velocidade com que o motorista estava dirigindo por ela. Em seguida calcule o valor da
+#   multa que uma pessoa receberá, sabendo que são pagos: a) R$ 85,13 se o motorista
+#   ultrapassar em até 10 km/h a velocidade permitida; b) R$ 127,69 se o motorista
+#   ultrapassar de 11 a 30 km/h a velocidade permitida; c) R$ 574,62 se estiver acima de 31
+#   km/h da velocidade permitida. Informe também os pontos que serão inseridos na carteira
+#   e o tipo de multa que será aplicado de acordo com a relação a seguir: Leve, Media e
+#   Gravíssima com 3, 5 e 7 pontos, respectivamente. Caso o motorista passe dentro da
+#   velocidade permitida, exibir “Vel. Normal”.
+
 print("DETRAN - Setor Multas")
 
 velocidade_maxima = int(input("Informe a velocidade máxima permitida na via: "))
