@@ -4,7 +4,7 @@
    
 import math, time
 
-print("Programa para verificar se um número é primo")
+print("Programa para verificar se um número é primo!")
 
 numero = int(input("Informe um número para verificar se é primo: "))
 
@@ -21,7 +21,7 @@ while (contador < 1 and divisor <= raiz_numero):
     if (numero % divisor == 0):
         contador += 1
     divisor += 1
-
+    
 end = time.time()
 
 if (contador > 0 or numero == 1):
